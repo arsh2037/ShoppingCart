@@ -1,0 +1,14 @@
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\bin\Debug\net7.0\Bulky.Utilities.deps.json
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\bin\Debug\net7.0\Bulky.Utilities.runtimeconfig.json
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\bin\Debug\net7.0\Bulky.Utilities.dll
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\bin\Debug\net7.0\Bulky.Utilities.pdb
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.csproj.AssemblyReference.cache
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.AssemblyInfoInputs.cache
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.AssemblyInfo.cs
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.dll
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\refint\Bulky.Utilities.dll
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.pdb
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\Bulky.Utilities.genruntimeconfig.cache
+C:\Users\arshh\HIT339\ShoppingCart\ShoppingCart\Bulky.Utilities\obj\Debug\net7.0\ref\Bulky.Utilities.dll
