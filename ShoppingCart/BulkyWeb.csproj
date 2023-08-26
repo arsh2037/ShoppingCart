@@ -22,4 +22,9 @@
     <ProjectReference Include="..\Bulky.Utilities\Bulky.Utilities.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Customer\Models\" />
+  </ItemGroup>
+
 </Project>

@@ -1,4 +1,4 @@
-namespace ShoppingCart.Models
+namespace Bulky.Models
 {
     public class ErrorViewModel
     {
