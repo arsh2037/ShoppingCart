@@ -13,5 +13,8 @@ namespace Bulky.Models
         public string? Name { get; set; }
         [Range(1, 5, ErrorMessage = "Error")]
         public int DisplayOrder { get; set; }
+
+        //public ICollection<Product> Product { get; set; }
+
     }
 }

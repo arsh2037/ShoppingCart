@@ -3468,11 +3468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj",
       "projectName": "Bulky.Utilities",
-      "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj",
+      "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj",
       "packagesPath": "C:\\Users\\arshh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\Bulky.Utilities\\obj\\",
+      "outputPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

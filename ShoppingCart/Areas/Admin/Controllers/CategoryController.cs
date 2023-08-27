@@ -41,13 +41,13 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         }
 
-        public IActionResult Edit(int? id)
+        public IActionResult Edit(int? CategoryId)
         {
-            if (id == 0)
+            if (CategoryId == 0)
             {
                 return NotFound();
             }
-            Category? categoryFromDb = _unitOfWork.Category.Get(u => u.CategoryId == id);
+            Category? categoryFromDb = _unitOfWork.Category.Get(u => u.CategoryId == CategoryId);
             //Category? categoryFromDb1 = _db.Categories.FirstOrDefault(u=>u.CategoryId==CategoryId);
             //Category? categoryFromDb2 = _db.Categories.Where(u=>u.CategoryId==CategoryId).FirstOrDefault();
 
@@ -71,10 +71,10 @@ namespace BulkyWeb.Areas.Admin.Controllers
 
         }
 
-        public IActionResult Delete(int? id)
+        public IActionResult Delete(int? CategoryId)
         {
             
-            Category? categoryFromDb = _unitOfWork.Category.Get(u => u.CategoryId == id);
+            Category? categoryFromDb = _unitOfWork.Category.Get(u => u.CategoryId == CategoryId);
 
             if (categoryFromDb == null)
             {
@@ -83,9 +83,9 @@ namespace BulkyWeb.Areas.Admin.Controllers
             return View(categoryFromDb);
         }
         [HttpPost, ActionName("Delete")]
-        public IActionResult DeletePOST(int? id)
+        public IActionResult DeletePOST(int? CategoryId)
         {
-            Category? obj = _unitOfWork.Category.Get(u => u.CategoryId == id);
+            Category? obj = _unitOfWork.Category.Get(u => u.CategoryId == CategoryId);
             if (obj == null)
             {
                 return NotFound();
