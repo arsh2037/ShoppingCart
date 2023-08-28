@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7zwkMutbJmXkgr5UEF4EwZg0m9i9nVLK80o0bhciAB0=",
+  "Hash": "mZ1R4Z79lXgVKxkAYMc5SQd6QspqF9EsLvgHJWCx3Ig=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1154,6 +1154,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\ed43fdc5-59ac-42e4-989f-ecb932e4cdd4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg"
     },
     {
       "Identity": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\js\\product.js",

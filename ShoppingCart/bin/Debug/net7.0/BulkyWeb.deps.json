@@ -3184,6 +3184,7 @@
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10",
+          "Microsoft.Extensions.Identity.Stores": "7.0.10",
           "System.Linq": "4.3.0"
         },
         "runtime": {
@@ -3192,6 +3193,7 @@
       },
       "Bulky.Utilities/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.UI": "7.0.10",
           "Microsoft.EntityFrameworkCore": "7.0.10",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
         },
