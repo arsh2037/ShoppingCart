@@ -14,7 +14,7 @@ namespace ECommerce.Models
         [Range(1, 5, ErrorMessage = "Error")]
         public int DisplayOrder { get; set; }
 
-        //public ICollection<Product> Product { get; set; }
+       
 
     }
 }
