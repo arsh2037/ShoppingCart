@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "igVYiaWTpqbairRC+fOpKqa68lNiXwqX450Uf3cqUmZoERQd5HNSLRDRZp5I7bN15PxZNfHL10gZpVfD7Kitkw==",
+  "dgSpecHash": "SHZublELXRPsySqon9QZwTqL5uTzZrO053IJppN/dKtYt/EROSGsOjkRVRenVQrlKrR8ZS7gpAe3aqAyvBqwzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj",
+  "projectFilePath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arshh\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\arshh\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,315 +1,315 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ecommerce.bundle.scp.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ecommerce.bundle.scp.css",
       "PackagePath": "staticwebassets\\Ecommerce.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\03a91efe-e69f-48e2-a34a-1c0efd132a67.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\03a91efe-e69f-48e2-a34a-1c0efd132a67.jpg",
       "PackagePath": "staticwebassets\\images\\product\\03a91efe-e69f-48e2-a34a-1c0efd132a67.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\61475381-c3d3-4108-918c-faf307fcf911.png",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\61475381-c3d3-4108-918c-faf307fcf911.png",
       "PackagePath": "staticwebassets\\images\\product\\61475381-c3d3-4108-918c-faf307fcf911.png"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\7cbbb673-4372-4ff7-b5f9-2a6c5e0e8bc0.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\7cbbb673-4372-4ff7-b5f9-2a6c5e0e8bc0.jpg",
       "PackagePath": "staticwebassets\\images\\product\\7cbbb673-4372-4ff7-b5f9-2a6c5e0e8bc0.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\7dfdbe02-9795-45ea-a799-32cd6f538f9a.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\7dfdbe02-9795-45ea-a799-32cd6f538f9a.jpg",
       "PackagePath": "staticwebassets\\images\\product\\7dfdbe02-9795-45ea-a799-32cd6f538f9a.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\860cd67a-d97b-465d-9b25-01f22e2fc71a.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\860cd67a-d97b-465d-9b25-01f22e2fc71a.jpg",
       "PackagePath": "staticwebassets\\images\\product\\860cd67a-d97b-465d-9b25-01f22e2fc71a.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\869caf3c-7328-440d-988c-908f8cb91df9.png",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\869caf3c-7328-440d-988c-908f8cb91df9.png",
       "PackagePath": "staticwebassets\\images\\product\\869caf3c-7328-440d-988c-908f8cb91df9.png"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\875cf333-2258-446b-a2e2-e74524300065.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\875cf333-2258-446b-a2e2-e74524300065.jpg",
       "PackagePath": "staticwebassets\\images\\product\\875cf333-2258-446b-a2e2-e74524300065.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\8a230b62-5cf8-4233-ab04-435e6b55eac9.png",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\8a230b62-5cf8-4233-ab04-435e6b55eac9.png",
       "PackagePath": "staticwebassets\\images\\product\\8a230b62-5cf8-4233-ab04-435e6b55eac9.png"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\a2f9b440-a6ec-4d07-9c0c-8b3ac9e7aa27.png",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\a2f9b440-a6ec-4d07-9c0c-8b3ac9e7aa27.png",
       "PackagePath": "staticwebassets\\images\\product\\a2f9b440-a6ec-4d07-9c0c-8b3ac9e7aa27.png"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\ada15c93-1c7c-4972-b604-6513052d2285.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\ada15c93-1c7c-4972-b604-6513052d2285.jpg",
       "PackagePath": "staticwebassets\\images\\product\\ada15c93-1c7c-4972-b604-6513052d2285.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\c642d9a5-dd07-4548-ab15-00f8af32491b.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\c642d9a5-dd07-4548-ab15-00f8af32491b.jpg",
       "PackagePath": "staticwebassets\\images\\product\\c642d9a5-dd07-4548-ab15-00f8af32491b.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\d1d51e03-5091-4d76-89db-4a4707bd3b4b.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\d1d51e03-5091-4d76-89db-4a4707bd3b4b.jpg",
       "PackagePath": "staticwebassets\\images\\product\\d1d51e03-5091-4d76-89db-4a4707bd3b4b.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\dab82733-9e2a-4614-9a7f-cf8f9791f1cb.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\dab82733-9e2a-4614-9a7f-cf8f9791f1cb.jpg",
       "PackagePath": "staticwebassets\\images\\product\\dab82733-9e2a-4614-9a7f-cf8f9791f1cb.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\ed43fdc5-59ac-42e4-989f-ecb932e4cdd4.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\ed43fdc5-59ac-42e4-989f-ecb932e4cdd4.jpg",
       "PackagePath": "staticwebassets\\images\\product\\ed43fdc5-59ac-42e4-989f-ecb932e4cdd4.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg",
       "PackagePath": "staticwebassets\\images\\product\\f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\f7ea95f2-ceee-4e42-a9db-6993f1629e5d.jpg",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\f7ea95f2-ceee-4e42-a9db-6993f1629e5d.jpg",
       "PackagePath": "staticwebassets\\images\\product\\f7ea95f2-ceee-4e42-a9db-6993f1629e5d.jpg"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\js\\product.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\js\\product.js",
       "PackagePath": "staticwebassets\\js\\product.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\ShoppingCart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

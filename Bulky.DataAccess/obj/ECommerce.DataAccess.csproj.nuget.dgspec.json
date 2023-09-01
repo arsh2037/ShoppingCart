@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj": {}
+    "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj": {
+    "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj",
         "projectName": "ECommerce.DataAccess",
-        "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj",
+        "projectPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj",
         "packagesPath": "C:\\Users\\arshh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj": {
-                "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj"
+              "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj": {
+                "projectPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj"
               },
-              "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj": {
-                "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj"
+              "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj": {
+                "projectPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj": {
+    "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj",
+        "projectUniqueName": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj",
         "projectName": "Ecommerce.Models",
-        "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj",
+        "projectPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj",
         "packagesPath": "C:\\Users\\arshh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\obj\\",
+        "outputPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -187,14 +187,14 @@
         }
       }
     },
-    "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj": {
+    "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj",
+        "projectUniqueName": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj",
         "projectName": "Ecommerce.Utilities",
-        "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj",
+        "projectPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj",
         "packagesPath": "C:\\Users\\arshh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\obj\\",
+        "outputPath": "C:\\Users\\arshh\\OneDrive\\Desktop\\demo\\ShoppingCart\\Bulky.Utilities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
