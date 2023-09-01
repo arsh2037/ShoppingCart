@@ -3674,7 +3674,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "Bulky.Models/1.0.0": {
+      "Ecommerce.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -3687,13 +3687,13 @@
           "System.Linq": "4.3.0"
         },
         "compile": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/Ecommerce.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/Ecommerce.Models.dll": {}
         }
       },
-      "Bulky.Utilities/1.0.0": {
+      "Ecommerce.Utilities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
@@ -3702,10 +3702,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.10"
         },
         "compile": {
-          "bin/placeholder/Bulky.Utilities.dll": {}
+          "bin/placeholder/Ecommerce.Utilities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Utilities.dll": {}
+          "bin/placeholder/Ecommerce.Utilities.dll": {}
         }
       }
     }
@@ -10251,21 +10251,21 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "Bulky.Models/1.0.0": {
+    "Ecommerce.Models/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Models/Bulky.Models.csproj",
-      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+      "path": "../Bulky.Models/Ecommerce.Models.csproj",
+      "msbuildProject": "../Bulky.Models/Ecommerce.Models.csproj"
     },
-    "Bulky.Utilities/1.0.0": {
+    "Ecommerce.Utilities/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Utilities/Bulky.Utilities.csproj",
-      "msbuildProject": "../Bulky.Utilities/Bulky.Utilities.csproj"
+      "path": "../Bulky.Utilities/Ecommerce.Utilities.csproj",
+      "msbuildProject": "../Bulky.Utilities/Ecommerce.Utilities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Bulky.Models >= 1.0.0",
-      "Bulky.Utilities >= 1.0.0",
+      "Ecommerce.Models >= 1.0.0",
+      "Ecommerce.Utilities >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore >= 7.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.10",
@@ -10279,9 +10279,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
-      "projectName": "Bulky.DataAccess",
-      "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj",
+      "projectName": "ECommerce.DataAccess",
+      "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\ECommerce.DataAccess.csproj",
       "packagesPath": "C:\\Users\\arshh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
@@ -10305,11 +10305,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Bulky.Models.csproj"
+            "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj": {
+              "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Models\\Ecommerce.Models.csproj"
             },
-            "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj": {
-              "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj"
+            "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj": {
+              "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj"
             }
           }
         }

@@ -10,9 +10,9 @@ using System.Text;
 using System.Text.Encodings.Web;
 using System.Threading;
 using System.Threading.Tasks;
-using Bulky.Utilities;
-using Bulky.Models;
-using BulkyWeb;
+using ECommerce.Utilities;
+using ECommerce.Models;
+using ECommerceWeb;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
@@ -23,10 +23,11 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.WebUtilities;
 using Microsoft.Extensions.Logging;
-using Bulky.DataAccess.Repository.IRepository;
+using ECommerce.DataAccess.Repository.IRepository;
 using System.Security.AccessControl;
+using Microsoft.EntityFrameworkCore;
 
-namespace BulkyBookWeb.Areas.Identity.Pages.Account
+namespace ECommerceBookWeb.Areas.Identity.Pages.Account
 {
     public class RegisterModel : PageModel
     {
@@ -124,10 +125,7 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
             public string? State { get; set; }
             public string? PostalCode { get; set; }
             public string? PhoneNumber { get; set; }
-            public int? CompanyId { get; set; }
-            [ValidateNever]
-
-            public IEnumerable<SelectListItem> CompanyList { get; set; }
+            
 
 
         }
@@ -140,22 +138,24 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Customer)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Employee)).GetAwaiter().GetResult();
                 _roleManager.CreateAsync(new IdentityRole(SD.Role_Admin)).GetAwaiter().GetResult();
-                _roleManager.CreateAsync(new IdentityRole(SD.Role_Company)).GetAwaiter().GetResult();
+            }
+            var roles = new List<string> { "Customer", "Admin", "Employee" };
+            foreach (var role in roles)
+            {
+                if (!await _roleManager.RoleExistsAsync(role))
+                {
+                    await _roleManager.CreateAsync(new IdentityRole(role));
+                }
             }
 
-            Input = new()
+            // Populate RoleList for the dropdown
+            Input = new InputModel();
+            Input.RoleList = await _roleManager.Roles.Select(r => new SelectListItem
             {
-                RoleList = _roleManager.Roles.Select(x => x.Name).Select(i => new SelectListItem
-                {
-                    Text = i,
-                    Value = i
-                }),
-                CompanyList = _unitOfWork.Company.GetAll().Select(i => new SelectListItem
-                {
-                    Text = i.Name,
-                    Value = i.Id.ToString()
-                })
-            };
+                Value = r.Name,
+                Text = r.Name
+            }).ToListAsync();
+
 
             ReturnUrl = returnUrl;
             ExternalLogins = (await _signInManager.GetExternalAuthenticationSchemesAsync()).ToList();
@@ -177,10 +177,7 @@ namespace BulkyBookWeb.Areas.Identity.Pages.Account
                 user.State = Input.State;
                 user.PostalCode = Input.PostalCode;
                 user.PhoneNumber = Input.PhoneNumber;
-                if (Input.Role == SD.Role_Company)
-                {
-                    user.CompanyId=Input.CompanyId;
-                }
+                
 
                 var result = await _userManager.CreateAsync(user, Input.Password);
 

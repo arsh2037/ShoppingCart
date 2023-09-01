@@ -1,17 +1,17 @@
-﻿using Bulky.DataAccess.Data;
-using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
-using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
+﻿using ECommerce.DataAccess.Data;
+using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.Models;
+using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
-using Bulky.DataAccess.Repository;
+using ECommerce.DataAccess.Repository;
 
-namespace Bulky.DataAccess.Repository
+namespace ECommerce.DataAccess.Repository
 {
     public class ShoppingCartRepository : Repository<ShoppingCart>, IShoppingCartRepository
     {

@@ -1,12 +1,12 @@
-using Bulky.DataAccess.Repository;
-using Bulky.DataAccess.Repository.IRepository;
+using ECommerce.DataAccess.Repository;
+using ECommerce.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI.Services;
-using Bulky.DataAccess.Data;
-using Bulky.DataAccess.Repository.IRepository;
-using Bulky.DataAccess.Repository;
-using Bulky.Utilities;
+using ECommerce.DataAccess.Data;
+using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.DataAccess.Repository;
+using ECommerce.Utilities;
 
 var builder = WebApplication.CreateBuilder(args);
 

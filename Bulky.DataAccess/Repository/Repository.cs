@@ -5,13 +5,13 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web.Mvc;
-using Bulky.DataAccess.Data;
-using Bulky.DataAccess.Repository.IRepository;
-using Bulky.DataAccess.Repository.IRepository;
+using ECommerce.DataAccess.Data;
+using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
-namespace Bulky.DataAccess.Repository
+namespace ECommerce.DataAccess.Repository
 {
     public class Repository<T> : IRepository<T> where T : class
     {

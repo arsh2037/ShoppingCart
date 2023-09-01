@@ -5,10 +5,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Bulky.Models;
+using ECommerce.Models;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
-namespace Bulky.Models
+namespace ECommerce.Models
 {
     public class Product
     {
@@ -18,10 +18,7 @@ namespace Bulky.Models
         public string Title { get; set; }
         [Required]
         public string Description { get; set; }
-        [Required]
-        public string Author { get; set; }
-        [Required]
-        public string ISBN { get; set; }
+        
         [Required]
         [Display(Name ="List Price")]
         [Range(1,1000)]

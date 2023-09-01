@@ -1,15 +1,15 @@
-﻿using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
+﻿using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Http;
-using Bulky.DataAccess.Data;
+using ECommerce.DataAccess.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System.Collections.Generic;
-using Bulky.Models.ViewModels;
-using Bulky.Utilities;
+using ECommerce.Models.ViewModels;
+using ECommerce.Utilities;
 using Microsoft.AspNetCore.Authorization;
 
-namespace BulkyWeb.Areas.Admin.Controllers
+namespace ECommerceWeb.Areas.Admin.Controllers
 {
     [Area("Admin")]
     [Authorize(Roles = SD.Role_Admin)]
@@ -137,17 +137,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
             return RedirectToAction("Index");
         }
 
-        #region API CALLS
-        [HttpGet]
-        public IActionResult GetAll()
-        {
-            List<Product> objProductList = _unitOfWork.Product.GetAll(includeProperties: "Category").ToList();
-            return Json(new {data= objProductList});
-
-
-        }
-
-        #endregion
+        
 
     }
 }

@@ -3846,9 +3846,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj",
-      "projectName": "Bulky.Utilities",
-      "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Bulky.Utilities.csproj",
+      "projectUniqueName": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj",
+      "projectName": "Ecommerce.Utilities",
+      "projectPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\Ecommerce.Utilities.csproj",
       "packagesPath": "C:\\Users\\arshh\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\Bulky.Utilities\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Ecommerce.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ecommerce.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\css\\site.css",
@@ -17,6 +17,50 @@
       "PackagePath": "staticwebassets\\images\\product\\03a91efe-e69f-48e2-a34a-1c0efd132a67.jpg"
     },
     {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\61475381-c3d3-4108-918c-faf307fcf911.png",
+      "PackagePath": "staticwebassets\\images\\product\\61475381-c3d3-4108-918c-faf307fcf911.png"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\7cbbb673-4372-4ff7-b5f9-2a6c5e0e8bc0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7cbbb673-4372-4ff7-b5f9-2a6c5e0e8bc0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\7dfdbe02-9795-45ea-a799-32cd6f538f9a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7dfdbe02-9795-45ea-a799-32cd6f538f9a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\860cd67a-d97b-465d-9b25-01f22e2fc71a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\860cd67a-d97b-465d-9b25-01f22e2fc71a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\869caf3c-7328-440d-988c-908f8cb91df9.png",
+      "PackagePath": "staticwebassets\\images\\product\\869caf3c-7328-440d-988c-908f8cb91df9.png"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\875cf333-2258-446b-a2e2-e74524300065.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\875cf333-2258-446b-a2e2-e74524300065.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\8a230b62-5cf8-4233-ab04-435e6b55eac9.png",
+      "PackagePath": "staticwebassets\\images\\product\\8a230b62-5cf8-4233-ab04-435e6b55eac9.png"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\a2f9b440-a6ec-4d07-9c0c-8b3ac9e7aa27.png",
+      "PackagePath": "staticwebassets\\images\\product\\a2f9b440-a6ec-4d07-9c0c-8b3ac9e7aa27.png"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\ada15c93-1c7c-4972-b604-6513052d2285.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ada15c93-1c7c-4972-b604-6513052d2285.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\c642d9a5-dd07-4548-ab15-00f8af32491b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\c642d9a5-dd07-4548-ab15-00f8af32491b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\d1d51e03-5091-4d76-89db-4a4707bd3b4b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\d1d51e03-5091-4d76-89db-4a4707bd3b4b.jpg"
+    },
+    {
       "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\dab82733-9e2a-4614-9a7f-cf8f9791f1cb.jpg",
       "PackagePath": "staticwebassets\\images\\product\\dab82733-9e2a-4614-9a7f-cf8f9791f1cb.jpg"
     },
@@ -27,6 +71,10 @@
     {
       "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg",
       "PackagePath": "staticwebassets\\images\\product\\f7950c35-7794-4f38-8c25-ed630d5c0cd0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\images\\product\\f7ea95f2-ceee-4e42-a9db-6993f1629e5d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f7ea95f2-ceee-4e42-a9db-6993f1629e5d.jpg"
     },
     {
       "Id": "C:\\Users\\arshh\\HIT339\\ShoppingCart\\ShoppingCart\\wwwroot\\js\\product.js",
@@ -265,20 +313,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ecommerce.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
-      "PackagePath": "build\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Ecommerce.props",
+      "PackagePath": "build\\Ecommerce.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
-      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce.props"
     },
     {
-      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
-      "PackagePath": "buildTransitive\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce.props",
+      "PackagePath": "buildTransitive\\Ecommerce.props"
     }
   ],
   "ElementsToRemove": []

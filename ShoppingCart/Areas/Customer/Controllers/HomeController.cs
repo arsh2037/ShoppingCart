@@ -1,15 +1,15 @@
-﻿using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
-using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
+﻿using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.Models;
+using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
-using Bulky.DataAccess.Repository;
+using ECommerce.DataAccess.Repository;
 
 using System.Security.Claims;
 using Microsoft.AspNetCore.Authorization;
 
-namespace BulkyWeb.Areas.Customer.Controllers
+namespace ECommerceWeb.Areas.Customer.Controllers
 {
     [Area("Customer")]
     public class HomeController : Controller
@@ -23,10 +23,20 @@ namespace BulkyWeb.Areas.Customer.Controllers
             _unitOfWork = unitOfWork;
         }
 
-        public IActionResult Index()
+        public IActionResult Index(string? id=null)
         {
-            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
-            return View(productList);
+            if (id != null)
+            {
+            IEnumerable<Product> productList = _unitOfWork.Product.GetAll(s => s.Title.Contains(id),includeProperties: "Category");
+                return View(productList);
+
+            }
+            else
+            {
+                IEnumerable<Product> productList = _unitOfWork.Product.GetAll(includeProperties: "Category");
+
+                return View(productList);
+            }
         }
 
         public IActionResult Details(int productId)

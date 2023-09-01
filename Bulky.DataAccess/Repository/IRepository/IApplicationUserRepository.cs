@@ -1,13 +1,13 @@
-﻿using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
-using BulkyWeb;
+﻿using ECommerce.DataAccess.Repository.IRepository;
+using ECommerce.Models;
+using ECommerceWeb;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bulky.DataAccess.Repository.IRepository
+namespace ECommerce.DataAccess.Repository.IRepository
 {
     public interface IApplicationUserRepository : IRepository<ApplicationUser>
     {

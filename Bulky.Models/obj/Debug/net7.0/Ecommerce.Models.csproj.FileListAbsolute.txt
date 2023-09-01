@@ -1,0 +1,14 @@
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\bin\Debug\net7.0\Ecommerce.Models.deps.json
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\bin\Debug\net7.0\Ecommerce.Models.runtimeconfig.json
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\bin\Debug\net7.0\Ecommerce.Models.dll
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\bin\Debug\net7.0\Ecommerce.Models.pdb
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.csproj.AssemblyReference.cache
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.AssemblyInfoInputs.cache
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.AssemblyInfo.cs
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.csproj.CoreCompileInputs.cache
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.dll
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\refint\Ecommerce.Models.dll
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.pdb
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\Ecommerce.Models.genruntimeconfig.cache
+C:\Users\arshh\HIT339\ShoppingCart\Bulky.Models\obj\Debug\net7.0\ref\Ecommerce.Models.dll

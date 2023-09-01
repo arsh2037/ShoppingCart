@@ -4,7 +4,7 @@
 
 #pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
 
-namespace Bulky.DataAccess.Migrations
+namespace ECommerce.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryToDbAndSeed : Migration

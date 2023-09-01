@@ -1,4 +1,4 @@
-﻿using Bulky.Models;
+﻿using ECommerce.Models;
 
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
 
-namespace Bulky.Models.ViewModels
+namespace ECommerce.Models.ViewModels
 {
     public class ShoppingCartVM
     {
