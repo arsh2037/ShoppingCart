@@ -10,3 +10,5 @@ Role Based Authorization (RBAC) is implemented, which means no user with a custo
 To set up the Project locally:
 Go to ECommerce -> Appsettings.json:
   "DefaultConnection": "Server={Your Local Server Name};Database={Your Database Name};Trusted_Connection=True;TrustServerCertificate=True"
+   
+You'll need to Register as a new user and set your role to Admin for CRUD functionality for products and categories
